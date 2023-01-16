@@ -15,4 +15,7 @@
 📄 **Pixel-wise Deep Image Stitching**  
 [[Paper]](https://arxiv.org/abs/2112.06171)
 
+📄 **Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images**  
+[[Paper]](https://arxiv.org/abs/2106.12859) [[Github]](https://github.com/nie-lang/UnsupervisedDeepImageStitching)
+
 ### 2020
