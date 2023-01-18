@@ -21,6 +21,9 @@
 📄 **Iterative Deep Homography Estimation**  
 [[Paper]](https://arxiv.org/abs/2203.15982) [[Github]](https://github.com/imdumpl78/IHN)   
 
+📄 **Depth-Aware Multi-Grid Deep homogrpahy Estimation with Contextual Correlation**  
+[[Paper]](https://arxiv.org/abs/2107.02524) [[Github]](https://github.com/nie-lang/Multi-Grid-Deep-Homography)  
+
 ### 2021
 
 📄 **Pixel-wise Deep Image Stitching**  
