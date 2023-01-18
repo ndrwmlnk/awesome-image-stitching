@@ -11,7 +11,12 @@
 
 ## Papers
 
+### 2023
+
 ### 2022
+
+📄 **Unsupervised Homography Estimation with Coplanarity-Aware GAN**  
+[[Paper]](https://arxiv.org/abs/2205.03821) [[Github]](https://github.com/megvii-research/HomoGAN) [[Video]](https://youtu.be/uNFA-yOSz7M)  
 
 ### 2021
 
@@ -19,7 +24,7 @@
 [[Paper]](https://arxiv.org/abs/2112.06171)
 
 📄 **Unsupervised Deep Image Stitching: Reconstructing Stitched Features to Images**  
-[[Paper]](https://arxiv.org/abs/2106.12859) [[Github]](https://github.com/nie-lang/UnsupervisedDeepImageStitching)
+[[Paper]](https://arxiv.org/abs/2106.12859) [[Github]](https://github.com/nie-lang/UnsupervisedDeepImageStitching)  
 
 ### 2020
 
