@@ -18,6 +18,9 @@
 📄 **Unsupervised Homography Estimation with Coplanarity-Aware GAN**  
 [[Paper]](https://arxiv.org/abs/2205.03821) [[Github]](https://github.com/megvii-research/HomoGAN) [[Video]](https://youtu.be/uNFA-yOSz7M)  
 
+📄 **Iterative Deep Homography Estimation**  
+[[Paper]](https://arxiv.org/abs/2203.15982) [[Github]](https://github.com/imdumpl78/IHN)   
+
 ### 2021
 
 📄 **Pixel-wise Deep Image Stitching**  
