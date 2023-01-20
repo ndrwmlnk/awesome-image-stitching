@@ -13,6 +13,9 @@
 
 ### 2023
 
+📄 **Semi-supervised Deep Large-baseline Homography Estimation with Progressive Equivalence Constraint**  
+[[Paper]](https://arxiv.org/abs/2212.02763) [[Github]](https://github.com/megvii-research/LBHomo) AAAI 
+
 ### 2022
 
 📄 **Unsupervised Homography Estimation with Coplanarity-Aware GAN**  
